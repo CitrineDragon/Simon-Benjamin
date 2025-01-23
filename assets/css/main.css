@@ -4286,7 +4286,8 @@ body.is-touch #banner {
 }
 
 .enhanced {
-  color: #d98291;
+  /* color: #d98291; */
+  color: #39c088;
 }
 
 .bold {
