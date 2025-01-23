@@ -4288,14 +4288,11 @@ body.is-touch #banner {
 .enhanced {
   color: #d98291;
 }
-<<<<<<< HEAD
-=======
 
 .bold {
-  font-weight: 400;
+  font-weight: 900;
 }
 
 .actions > li > a {
   margin-bottom: 1rem;
 }
->>>>>>> master
