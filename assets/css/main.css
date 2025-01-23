@@ -4293,6 +4293,15 @@ body.is-touch #banner {
   font-weight: 900;
 }
 
-.actions > li > a {
+/* .actions > li > a {
   margin-bottom: 1rem;
+} */
+
+.retailers {
+  list-style-type: none;
+  padding: 0;
+}
+
+.retailers > li {
+  padding: 0;
 }
